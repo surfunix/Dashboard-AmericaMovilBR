@@ -1,0 +1,386 @@
+{
+    "datasetVersion": "2026-10-14-restored",
+    "restoreSignature": "fy27-pdf-20261014-v1",
+    "currency": "USD",
+    "fxRate": 5.0102,
+    "currentQuarter": 1,
+    "commitments": [
+        0,
+        6000000,
+        0,
+        0
+    ],
+    "actuals": [
+        0,
+        5602000,
+        0,
+        0
+    ],
+    "increments": [
+        {
+            "name": "Alloy - Consumo (ExaCS - Migração)",
+            "tenancy": "Alloy",
+            "segment": "B2C",
+            "flexible": true,
+            "completed": false,
+            "workloadNote": "",
+            "values": [
+                0,
+                84270.03,
+                1128036.33,
+                1151640.3
+            ],
+            "updatedAt": "2026-10-21T18:05:16.615Z"
+        },
+        {
+            "name": "Alloy - ECPU (50%) AS-IS *4/2 - (30/09/2026)",
+            "tenancy": "Alloy",
+            "segment": "B2C",
+            "flexible": true,
+            "completed": false,
+            "workloadNote": "Descontada as ECPUs subidas dia 11/10/26",
+            "values": [
+                0,
+                62971.1,
+                0,
+                0
+            ],
+            "updatedAt": "2026-10-14T12:00:00-03:00"
+        },
+        {
+            "name": "ExaCC (PITER)",
+            "tenancy": "ClaroGen2",
+            "segment": "B2C",
+            "flexible": false,
+            "completed": false,
+            "workloadNote": "",
+            "values": [
+                0,
+                0,
+                5000,
+                5000
+            ],
+            "updatedAt": "2026-10-20T13:12:33.460Z"
+        },
+        {
+            "name": "ClaroCloud (VMWare)",
+            "tenancy": "Alloy",
+            "segment": "B2B",
+            "flexible": false,
+            "completed": false,
+            "workloadNote": "",
+            "values": [
+                0,
+                23682.4,
+                71047.2,
+                71047.2
+            ],
+            "updatedAt": "2026-10-03T12:00:00-03:00"
+        },
+        {
+            "name": "Paneas",
+            "tenancy": "Alloy",
+            "segment": "B2B",
+            "flexible": false,
+            "completed": false,
+            "workloadNote": "",
+            "values": [
+                0,
+                0,
+                117000,
+                112095.41
+            ],
+            "updatedAt": "2026-10-20T13:12:38.680Z"
+        },
+        {
+            "name": "Engenharia (Alloy)",
+            "tenancy": "Alloy",
+            "segment": "B2C",
+            "flexible": true,
+            "completed": false,
+            "workloadNote": "",
+            "values": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "updatedAt": "2026-10-05T12:00:00-03:00"
+        },
+        {
+            "name": "Claro TV",
+            "tenancy": "Alloy",
+            "segment": "B2C",
+            "flexible": true,
+            "completed": false,
+            "workloadNote": "",
+            "values": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "updatedAt": "2026-10-05T12:00:00-03:00"
+        },
+        {
+            "name": "Barramento SOA",
+            "tenancy": "Alloy",
+            "segment": "B2C",
+            "flexible": true,
+            "completed": false,
+            "workloadNote": "",
+            "values": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "updatedAt": "2026-10-05T12:00:00-03:00"
+        },
+        {
+            "name": "Bases (OCI)",
+            "tenancy": "Alloy",
+            "segment": "B2C",
+            "flexible": true,
+            "completed": false,
+            "workloadNote": "",
+            "values": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "updatedAt": "2026-10-05T12:00:00-03:00"
+        },
+        {
+            "name": "PCO (Alinhar com Luccas)",
+            "tenancy": "Alloy",
+            "segment": "B2C",
+            "flexible": true,
+            "completed": false,
+            "workloadNote": "",
+            "values": [
+                0,
+                0,
+                33640.58,
+                0
+            ],
+            "updatedAt": "2026-10-08T12:00:00-03:00"
+        },
+        {
+            "name": "Control-M (Alinhar com BAOR)",
+            "tenancy": "Alloy",
+            "segment": "B2C",
+            "flexible": true,
+            "completed": false,
+            "workloadNote": "",
+            "values": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "updatedAt": "2026-10-05T12:00:00-03:00"
+        },
+        {
+            "name": "AgileDB (Alinhado Luccas)",
+            "tenancy": "Alloy",
+            "segment": "B2C",
+            "flexible": true,
+            "completed": false,
+            "workloadNote": "",
+            "values": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "updatedAt": "2026-10-05T12:00:00-03:00"
+        },
+        {
+            "name": "Lakehouse (Alinhado Luccas)",
+            "tenancy": "Alloy",
+            "segment": "B2C",
+            "flexible": true,
+            "completed": false,
+            "workloadNote": "",
+            "values": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "updatedAt": "2026-10-05T12:00:00-03:00"
+        },
+        {
+            "name": "ADEX (Alinhado Luccas)",
+            "tenancy": "Alloy",
+            "segment": "B2C",
+            "flexible": true,
+            "completed": false,
+            "workloadNote": "",
+            "values": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "updatedAt": "2026-10-05T12:00:00-03:00"
+        },
+        {
+            "name": "DWH (Alinhar com BAOR)",
+            "tenancy": "Alloy",
+            "segment": "B2C",
+            "flexible": true,
+            "completed": false,
+            "workloadNote": "",
+            "values": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "updatedAt": "2026-10-05T12:00:00-03:00"
+        },
+        {
+            "name": "Conv115 (Alinhar com BAOR)",
+            "tenancy": "Alloy",
+            "segment": "B2C",
+            "flexible": true,
+            "completed": false,
+            "workloadNote": "",
+            "values": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "updatedAt": "2026-10-05T12:00:00-03:00"
+        },
+        {
+            "name": "SASCAR",
+            "tenancy": "Alloy",
+            "segment": "B2B",
+            "flexible": false,
+            "completed": false,
+            "workloadNote": "",
+            "values": [
+                0,
+                0,
+                238868.36,
+                0
+            ],
+            "updatedAt": "2026-10-09T12:00:00-03:00"
+        },
+        {
+            "name": "Ajust. Temp ExaCS - TRX",
+            "tenancy": "Alloy",
+            "segment": "B2C",
+            "flexible": true,
+            "completed": false,
+            "workloadNote": "Ajuste temporário ECPU DR habilitado para replicação.",
+            "values": [
+                0,
+                4000,
+                0,
+                0
+            ],
+            "updatedAt": "2026-10-09T12:00:00-03:00"
+        },
+        {
+            "name": "Incremento ECPUs",
+            "tenancy": "Alloy",
+            "segment": "B2C",
+            "flexible": true,
+            "completed": false,
+            "workloadNote": "ECPUs subidas em 11/10/26",
+            "values": [
+                0,
+                135000,
+                0,
+                0
+            ],
+            "updatedAt": "2026-10-14T12:00:00-03:00"
+        }
+    ],
+    "decrements": [
+        {
+            "name": "OCPUs - ExaCC - vClassia (24/09/2026)",
+            "tenancy": "ClaroGen2",
+            "segment": "B2C",
+            "flexible": true,
+            "completed": false,
+            "workloadNote": "",
+            "values": [
+                0,
+                98729,
+                177033.19,
+                105662.95
+            ],
+            "updatedAt": "2026-10-08T12:00:00-03:00"
+        },
+        {
+            "name": "Cloudera - TI (IaaS) - RAMPA (24/09/2026)",
+            "tenancy": "ClaroGen2",
+            "segment": "B2C",
+            "flexible": false,
+            "completed": true,
+            "workloadNote": "",
+            "values": [
+                0,
+                0,
+                109234.6,
+                10286.63
+            ],
+            "updatedAt": "2026-10-08T12:00:00-03:00"
+        },
+        {
+            "name": "OCVS (Commit 3 Years)",
+            "tenancy": "ClaroGen2",
+            "segment": "B2C",
+            "flexible": false,
+            "completed": false,
+            "workloadNote": "",
+            "values": [
+                0,
+                186129.6,
+                96691.69,
+                240494.82
+            ],
+            "updatedAt": "2026-10-05T12:00:00-03:00"
+        },
+        {
+            "name": "PCO (VCP)",
+            "tenancy": "ClaroGen2",
+            "segment": "B2C",
+            "flexible": true,
+            "completed": false,
+            "workloadNote": "",
+            "values": [
+                0,
+                0,
+                15624.2,
+                0
+            ],
+            "updatedAt": "2026-10-08T12:00:00-03:00"
+        }
+    ],
+    "manual": {
+        "hw": [
+            0,
+            0,
+            388009.21,
+            706457.56
+        ],
+        "overage": [
+            0,
+            0,
+            839400,
+            0
+        ]
+    },
+    "actualUpdatedAt": "2026-10-21T18:05:51.236Z",
+    "updatedAt": "2026-10-26T15:58:40.512Z",
+    "publishedAt": "2026-10-26T16:01:03.118Z",
+    "publishedBy": "marcus"
+}
